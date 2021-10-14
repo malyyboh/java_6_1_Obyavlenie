@@ -1,1 +1,1 @@
-﻿# java_7_1_Obyavlenie
+﻿# java_6_1_Obyavlenie
